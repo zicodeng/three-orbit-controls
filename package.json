@@ -1,5 +1,5 @@
 {
-  "name": "@zicodeng/three-orbit-controls",
+  "name": "zicodeng-three-orbit-controls",
   "version": "0.96.0",
   "description": "NPM module for Three.js orbit controls.",
   "main": "index.js",
