@@ -1,0 +1,24 @@
+{
+  "name": "@zicodeng/three-orbit-controls",
+  "version": "0.96.0",
+  "description": "NPM module for Three.js orbit controls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zicodeng/three-orbit-controls.git"
+  },
+  "keywords": [
+    "three",
+    "three.js",
+    "orbit-controls"
+  ],
+  "author": "Zico Deng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zicodeng/three-orbit-controls/issues"
+  },
+  "homepage": "https://github.com/zicodeng/three-orbit-controls#readme"
+}
